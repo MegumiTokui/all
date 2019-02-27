@@ -1,0 +1,28 @@
+p
+{
+    background: red;
+    color: white;
+}
+section p{
+    position: relative;
+  
+left: 100px;
+top:100px;
+width: 100px;
+}
+
+address{
+     position: absolute;
+     left:100%;
+     width: 300px;
+     bottom:0px;    
+}
+
+.megu p{
+
+    background: blue;
+    padding: 300px;
+    color: indianred;
+}
+
+span
